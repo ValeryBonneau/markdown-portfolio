@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![My books are a better way to talk about me](https://www.valerybonneau.com/wp-content/uploads/2020/11/Bibliographie-VB-min.jpg)

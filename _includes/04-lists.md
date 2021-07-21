@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+* Writing
+* Reading
+* Meeting Friends
+* Learning
+* Teaching
+* Willing to add coding to that list
